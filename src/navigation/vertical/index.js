@@ -32,7 +32,7 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      href: 'https://github.com/mdlog/mdlogchain',
       icon: 'LifeBuoyIcon',
     })
   }

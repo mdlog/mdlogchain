@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'MDLOG', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/2e7ffc43ac9141fdb8d9400000fb8b35.png', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/logog.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,

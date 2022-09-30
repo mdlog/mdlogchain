@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://github.com/mdlog/mdlogchain/blob/master/public/2e7ffc43ac9141fdb8d9400000fb8b35.png',
+      icon: 'https://raw.githubusercontent.com/mdlog/mdlogchain/master/public/islm.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })

@@ -3,7 +3,7 @@
 export const $themeColors = {}
 
 // App Breakpoints
-// Initially this will be blank. Later on when app is initialized we will assign bootstrap breakpoints to this object from CSS variables.
+// == Initially this will be blank. Later on when app is initialized we will assign bootstrap breakpoints to this object from CSS variables.
 export const $themeBreakpoints = {}
 
 // APP CONFIG
